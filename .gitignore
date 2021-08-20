@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 password.txt
 id.txt
+kakaoapikey.txt
 
 # C extensions
 *.so
