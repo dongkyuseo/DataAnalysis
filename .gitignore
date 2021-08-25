@@ -5,6 +5,7 @@ __pycache__/
 password.txt
 id.txt
 kakaoapikey.txt
+mysql.json
 
 # C extensions
 *.so
