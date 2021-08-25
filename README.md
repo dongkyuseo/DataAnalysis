@@ -7,7 +7,7 @@
 - 01.Numpy
 - 02.Pandas
 
-[폴리움](http://python-visualization.github.io/folium/quickstart.html#Getting-Started) 온라인
+[폴리움](http://python-visualization.github.io/folium/quickstart.html#Getting-Started) 온라인<br>
 [폴리움살펴보기](https://dailyheumsi.tistory.com/144) 온라인
 - 03.시각화
 - 04.공공API_및_지도시각화
