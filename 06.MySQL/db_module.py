@@ -1,6 +1,7 @@
 
 import pymysql
 
+# 월별 매출/이익
 def get_monthly(config):
     conn = pymysql.connect(**config)
     cur = conn.cursor()
@@ -19,7 +20,7 @@ def get_monthly(config):
     conn.close()
     return results
 
-
+# 거래처별 매출 및 이익
 def get_company_rp(config):
     conn = pymysql.connect(**config)
     cur = conn.cursor()
@@ -38,7 +39,7 @@ def get_company_rp(config):
     conn.close()
     return results
 
-
+# 거래처별 판매제품 및 수량
 def get_company_nu(config):
     conn = pymysql.connect(**config)
     cur = conn.cursor()
@@ -57,7 +58,7 @@ def get_company_nu(config):
     conn.close()
     return results
 
-
+# 제품별 판매수량/매출/이익
 def get_pname_rp(config):
     conn = pymysql.connect(**config)
     cur = conn.cursor()
@@ -76,7 +77,7 @@ def get_pname_rp(config):
     conn.close()
     return results
 
-
+# 카테고리별 매출/이익 표 및 그래프
 def get_category_rp(config):
     conn = pymysql.connect(**config)
     cur = conn.cursor()
