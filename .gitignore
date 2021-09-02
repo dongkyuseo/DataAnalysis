@@ -6,6 +6,7 @@ password.txt
 id.txt
 kakaoapikey.txt
 mysql.json
+movies/
 
 # C extensions
 *.so
