@@ -18,3 +18,6 @@
 [MySQL 튜토리얼 공부 사이트](https://www.w3schools.com/mysql/default.asp)<br>
 [오라클클라우드 설치 참조사이트](http://andang72.blogspot.com/2020/10/part1.html)
 - [06.MySQL](https://github.com/dongkyuseo/DataAnalysis/tree/main/06.MySQL)
+
+[딥 러닝을 이용한 자연어 처리 입문 위키독스](https://wikidocs.net/book/2155)<br>
+- [07.NLP](https://github.com/dongkyuseo/DataAnalysis/tree/main/07.NLP)
