@@ -1,8 +1,8 @@
 # DataAnalysis 강좌 수강
 
 ## 멀티캠퍼스, 서울
-### 빅데이터 기반 지능형 서비스 개발(2021.07 ~ 2021.12)
-### 빅데이터 분석을 위한 프로그래밍 & 데이터 플랫폼 활용
+### 빅데이터 기반 지능형 서비스 개발 (2021.07 ~ 2021.12)
+### 빅데이터 분석을 위한 프로그래밍 & 데이터 플랫폼 활용 (2021.07 ~ 2021.09)
 
 - [01.Numpy](https://github.com/dongkyuseo/DataAnalysis/tree/main/01.Numpy)
 - [02.Pandas](https://github.com/dongkyuseo/DataAnalysis/tree/main/02.Pandas)
