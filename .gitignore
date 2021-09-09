@@ -7,6 +7,7 @@ id.txt
 kakaoapikey.txt
 mysql.json
 movies/
+00.study/
 
 # C extensions
 *.so
