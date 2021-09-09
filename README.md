@@ -21,3 +21,5 @@
 
 [딥 러닝을 이용한 자연어 처리 입문 위키독스](https://wikidocs.net/book/2155)<br>
 - [07.NLP](https://github.com/dongkyuseo/DataAnalysis/tree/main/07.NLP)
+- [08.분석사례](https://github.com/dongkyuseo/DataAnalysis/tree/main/08.%EB%B6%84%EC%84%9D%EC%82%AC%EB%A1%80)
+- [09.PowerBI](https://github.com/dongkyuseo/DataAnalysis/tree/main/09.PowerBI)
