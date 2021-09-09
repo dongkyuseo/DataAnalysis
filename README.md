@@ -13,6 +13,7 @@
 - [08.분석사례](https://github.com/dongkyuseo/DataAnalysis/tree/main/08.%EB%B6%84%EC%84%9D%EC%82%AC%EB%A1%80)
 - [09.PowerBI](https://github.com/dongkyuseo/DataAnalysis/tree/main/09.PowerBI)
 
+## 관련 내용 공부 사이트
 [데이터 사이언스 스쿨](https://datascienceschool.net/intro.html) 온라인버전<br>
 [폴리움](http://python-visualization.github.io/folium/quickstart.html#Getting-Started) 온라인<br>
 [폴리움살펴보기](https://dailyheumsi.tistory.com/144) 온라인<br>
